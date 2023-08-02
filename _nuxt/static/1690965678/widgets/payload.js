@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/widgets", {data:[{}],fetch:{},mutations:void 0});
