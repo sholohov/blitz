@@ -1083,8 +1083,8 @@
     "nation": "usa",
     "class": "heavyTank",
     "level": 9,
-    "tags": "; collectible",
-    "price_gold": 0,
+    "tags": "premium; collectible",
+    "price_gold": 10000,
     "tech_name": "A146_TL_7_120",
     "cd": 27425
   },
@@ -2563,8 +2563,8 @@
     "cd": 22529
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "ST-62 Version 2",
+    "ru_name": "СТ-62 вариант 2",
     "nation": "ussr",
     "class": "mediumTank",
     "level": 8,
@@ -6567,8 +6567,8 @@
     "cd": 5985
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "XM66F",
+    "ru_name": "XM66F",
     "nation": "usa",
     "class": "AT-SPG",
     "level": 10,
