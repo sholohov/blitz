@@ -132,6 +132,17 @@
     "cd": 6177
   },
   {
+    "en_name": "Cyborg",
+    "ru_name": "Лидер",
+    "nation": "usa",
+    "class": "heavyTank",
+    "level": 6,
+    "tags": "premium; collectible",
+    "price_gold": 500,
+    "tech_name": "M6E2V2_BP",
+    "cd": 27169
+  },
+  {
     "en_name": "Excelsior",
     "ru_name": "Excelsior",
     "nation": "uk",
@@ -242,15 +253,15 @@
     "cd": 6209
   },
   {
-    "en_name": "Type 3 Chi-Nu",
-    "ru_name": "Type 3 Chi-Nu",
+    "en_name": "None",
+    "ru_name": "None",
     "nation": "japan",
-    "class": "mediumTank",
-    "level": 5,
-    "tags": "",
-    "price_gold": 0,
-    "tech_name": "Chi_Nu",
-    "cd": 1377
+    "class": "AT-SPG",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7600,
+    "tech_name": "J31_Type_5_Ka_Ri",
+    "cd": 7521
   },
   {
     "en_name": "Svear",
@@ -561,15 +572,15 @@
     "cd": 8257
   },
   {
-    "en_name": "#germany_vehicles:1_test",
-    "ru_name": "#germany_vehicles:1_test",
+    "en_name": "Tanknator™",
+    "ru_name": "Tanknator™",
     "nation": "other",
-    "class": "heavyTank",
-    "level": 7,
+    "class": "lightTank",
+    "level": 6,
     "tags": "premium; collectible",
-    "price_gold": 2500,
-    "tech_name": "Oth14_MdM_AshKnight_test",
-    "cd": 6513
+    "price_gold": 500,
+    "tech_name": "Oth32_TrackRacer_BP",
+    "cd": 9585
   },
   {
     "en_name": "Bisonte C45",
@@ -649,8 +660,8 @@
     "cd": 7985
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Glacier",
+    "ru_name": "Glacier",
     "nation": "other",
     "class": "mediumTank",
     "level": 9,
@@ -759,8 +770,8 @@
     "cd": 6145
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "DS PZInż",
+    "ru_name": "DS PZInż",
     "nation": "european",
     "class": "mediumTank",
     "level": 5,
@@ -880,8 +891,8 @@
     "cd": 10625
   },
   {
-    "en_name": "#european_vehicles:Pl23_CS_53",
-    "ru_name": "#european_vehicles:Pl23_CS_53",
+    "en_name": "CS-53",
+    "ru_name": "CS-53",
     "nation": "european",
     "class": "mediumTank",
     "level": 8,
@@ -902,8 +913,8 @@
     "cd": 8465
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#ussr_vehicles:T34_85TUR",
+    "ru_name": "#ussr_vehicles:T34_85TUR",
     "nation": "ussr",
     "class": "mediumTank",
     "level": 6,
@@ -1078,15 +1089,15 @@
     "cd": 20737
   },
   {
-    "en_name": "TL-7-120",
-    "ru_name": "TL-7-120",
-    "nation": "usa",
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
     "class": "heavyTank",
     "level": 9,
-    "tags": "premium; collectible",
-    "price_gold": 10000,
-    "tech_name": "A146_TL_7_120",
-    "cd": 27425
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Ch49_BZ_68",
+    "cd": 12081
   },
   {
     "en_name": "P.44 Pantera",
@@ -1133,8 +1144,8 @@
     "cd": 10513
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Basilisk",
+    "ru_name": "Basilisk",
     "nation": "other",
     "class": "mediumTank",
     "level": 7,
@@ -1164,6 +1175,17 @@
     "price_gold": 0,
     "tech_name": "GB12_Conqueror",
     "cd": 4433
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "germany",
+    "class": "lightTank",
+    "level": 7,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "G85_Auf_Panther",
+    "cd": 27153
   },
   {
     "en_name": "T23E3",
@@ -1298,15 +1320,15 @@
     "cd": 353
   },
   {
-    "en_name": "Titan T24 57",
-    "ru_name": "Titan T24 57",
+    "en_name": "#germany_vehicles:1_test",
+    "ru_name": "#germany_vehicles:1_test",
     "nation": "other",
-    "class": "lightTank",
-    "level": 6,
+    "class": "heavyTank",
+    "level": 7,
     "tags": "premium; collectible",
-    "price_gold": 500,
-    "tech_name": "Oth27_M24_AMX",
-    "cd": 8561
+    "price_gold": 2500,
+    "tech_name": "Oth14_MdM_AshKnight_test",
+    "cd": 6513
   },
   {
     "en_name": "Helsing",
@@ -1395,6 +1417,17 @@
     "price_gold": 0,
     "tech_name": "GB69_Cruiser_Mk_II_tutorial_bot",
     "cd": 16721
+  },
+  {
+    "en_name": "Type 3 Chi-Nu",
+    "ru_name": "Type 3 Chi-Nu",
+    "nation": "japan",
+    "class": "mediumTank",
+    "level": 5,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Chi_Nu",
+    "cd": 1377
   },
   {
     "en_name": "Lorraine 40 t Fearless",
@@ -1738,8 +1771,8 @@
     "cd": 4449
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Чёрный Пёс",
+    "ru_name": "Чёрный Пёс",
     "nation": "other",
     "class": "mediumTank",
     "level": 8,
@@ -1782,15 +1815,15 @@
     "cd": 5745
   },
   {
-    "en_name": "T-34-85 Victory",
-    "ru_name": "T-34-85 Победный",
-    "nation": "ussr",
-    "class": "mediumTank",
+    "en_name": "Frosty",
+    "ru_name": "Frosty",
+    "nation": "usa",
+    "class": "lightTank",
     "level": 6,
-    "tags": "premium",
-    "price_gold": 3300,
-    "tech_name": "T-34-85_Victory",
-    "cd": 64257
+    "tags": "premium; collectible",
+    "price_gold": 500,
+    "tech_name": "M24_Chaffee_BP",
+    "cd": 26913
   },
   {
     "en_name": "AMX 40",
@@ -1934,6 +1967,17 @@
     "price_gold": 7200,
     "tech_name": "F73_M4A1_Revalorise",
     "cd": 16193
+  },
+  {
+    "en_name": "T-34-85 Victory",
+    "ru_name": "T-34-85 Победный",
+    "nation": "ussr",
+    "class": "mediumTank",
+    "level": 6,
+    "tags": "premium",
+    "price_gold": 3300,
+    "tech_name": "T-34-85_Victory",
+    "cd": 64257
   },
   {
     "en_name": "Caliban",
@@ -2299,6 +2343,17 @@
     "cd": 10865
   },
   {
+    "en_name": "T49 Fearless",
+    "ru_name": "T49 Бесстрашный",
+    "nation": "usa",
+    "class": "lightTank",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7600,
+    "tech_name": "T49_Fearless",
+    "cd": 27937
+  },
+  {
     "en_name": "Lorraine 40 t",
     "ru_name": "Lorraine 40 t",
     "nation": "france",
@@ -2398,8 +2453,8 @@
     "cd": 7729
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Nebulon",
+    "ru_name": "Nebulon",
     "nation": "other",
     "class": "mediumTank",
     "level": 8,
@@ -2506,6 +2561,17 @@
     "price_gold": 500,
     "tech_name": "M18E2BP",
     "cd": 24097
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 7,
+    "tags": "premium; collectible",
+    "price_gold": 5000,
+    "tech_name": "Oth45_Sandstriker",
+    "cd": 12913
   },
   {
     "en_name": "T-34 shielded",
@@ -2629,8 +2695,8 @@
     "cd": 11073
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "CS-59",
+    "ru_name": "CS-59",
     "nation": "european",
     "class": "mediumTank",
     "level": 9,
@@ -2827,15 +2893,15 @@
     "cd": 25633
   },
   {
-    "en_name": "Cyborg",
-    "ru_name": "Лидер",
-    "nation": "usa",
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
     "class": "heavyTank",
-    "level": 6,
-    "tags": "premium; collectible",
-    "price_gold": 500,
-    "tech_name": "M6E2V2_BP",
-    "cd": 27169
+    "level": 10,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Ch48_BZ_75",
+    "cd": 11825
   },
   {
     "en_name": "Prototipo Standard B",
@@ -2882,8 +2948,8 @@
     "cd": 10257
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Kpz. Pr.68 (P)",
+    "ru_name": "Kpz. Pr.68 (P)",
     "nation": "germany",
     "class": "mediumTank",
     "level": 8,
@@ -3828,6 +3894,17 @@
     "cd": 4401
   },
   {
+    "en_name": "Titan T24 57",
+    "ru_name": "Titan T24 57",
+    "nation": "other",
+    "class": "lightTank",
+    "level": 6,
+    "tags": "premium; collectible",
+    "price_gold": 500,
+    "tech_name": "Oth27_M24_AMX",
+    "cd": 8561
+  },
+  {
     "en_name": "Cruiser Mk. I",
     "ru_name": "Cruiser Mk. I",
     "nation": "uk",
@@ -3960,17 +4037,6 @@
     "cd": 20769
   },
   {
-    "en_name": "Tanknator™",
-    "ru_name": "Tanknator™",
-    "nation": "other",
-    "class": "lightTank",
-    "level": 6,
-    "tags": "premium; collectible",
-    "price_gold": 500,
-    "tech_name": "Oth32_TrackRacer_BP",
-    "cd": 9585
-  },
-  {
     "en_name": "VK 72.01 (K)",
     "ru_name": "VK 72.01 (K)",
     "nation": "germany",
@@ -3993,6 +4059,17 @@
     "cd": 5233
   },
   {
+    "en_name": "Pawlack Tank",
+    "ru_name": "Pawlack Tank",
+    "nation": "usa",
+    "class": "heavyTank",
+    "level": 6,
+    "tags": "premium",
+    "price_gold": 2500,
+    "tech_name": "A142_Pawlack_Tank",
+    "cd": 27681
+  },
+  {
     "en_name": "Semovente Controcarro mod. 1964",
     "ru_name": "Semovente Controcarro mod. 1964",
     "nation": "european",
@@ -4004,15 +4081,15 @@
     "cd": 10881
   },
   {
-    "en_name": "Jagdpanther",
-    "ru_name": "Jagdpanther",
-    "nation": "germany",
-    "class": "AT-SPG",
-    "level": 7,
+    "en_name": "T-26",
+    "ru_name": "Т-26",
+    "nation": "ussr",
+    "class": "lightTank",
+    "level": 1,
     "tags": "",
     "price_gold": 0,
-    "tech_name": "JagdPanther",
-    "cd": 3857
+    "tech_name": "T-26_tutorial_bot",
+    "cd": 19201
   },
   {
     "en_name": "Valentine AT",
@@ -4334,6 +4411,17 @@
     "cd": 8497
   },
   {
+    "en_name": "#other_vehicles:Oth44_Charioteer_T",
+    "ru_name": "#other_vehicles:Oth44_Charioteer_T",
+    "nation": "other",
+    "class": "AT-SPG",
+    "level": 9,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth44_Charioteer_T",
+    "cd": 12657
+  },
+  {
     "en_name": "Somua SAu 40",
     "ru_name": "Somua SAu 40",
     "nation": "france",
@@ -4438,8 +4526,8 @@
     "nation": "european",
     "class": "mediumTank",
     "level": 10,
-    "tags": "premium; collectible",
-    "price_gold": 20,
+    "tags": "",
+    "price_gold": 0,
     "tech_name": "Pl21_CS_63",
     "cd": 14977
   },
@@ -4554,8 +4642,8 @@
     "cd": 3345
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "B.U.G.I.",
+    "ru_name": "B.U.G.I.",
     "nation": "european",
     "class": "mediumTank",
     "level": 6,
@@ -4620,15 +4708,15 @@
     "cd": 8753
   },
   {
-    "en_name": "Frosty",
-    "ru_name": "Frosty",
-    "nation": "usa",
-    "class": "lightTank",
-    "level": 6,
-    "tags": "premium; collectible",
-    "price_gold": 500,
-    "tech_name": "M24_Chaffee_BP",
-    "cd": 26913
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
+    "class": "heavyTank",
+    "level": 9,
+    "tags": "premium",
+    "price_gold": 15000,
+    "tech_name": "Ch59_BZ58_2",
+    "cd": 11569
   },
   {
     "en_name": "Progetto M40 mod. 65",
@@ -4730,15 +4818,15 @@
     "cd": 20481
   },
   {
-    "en_name": "T49 Fearless",
-    "ru_name": "T49 Бесстрашный",
-    "nation": "usa",
-    "class": "lightTank",
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
+    "class": "heavyTank",
     "level": 8,
-    "tags": "premium",
-    "price_gold": 7600,
-    "tech_name": "T49_Fearless",
-    "cd": 27937
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Ch50_BZ_166",
+    "cd": 12593
   },
   {
     "en_name": "P.43 bis",
@@ -4895,13 +4983,13 @@
     "cd": 2433
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Forest Witch",
+    "ru_name": "Forest Witch",
     "nation": "other",
     "class": "heavyTank",
     "level": 7,
-    "tags": "",
-    "price_gold": 0,
+    "tags": "premium; collectible",
+    "price_gold": 5000,
     "tech_name": "Oth42_ForestWitch_HW23",
     "cd": 11633
   },
@@ -4926,6 +5014,17 @@
     "price_gold": 0,
     "tech_name": "GB01_Medium_Mark_I_tutorial_bot",
     "cd": 65105
+  },
+  {
+    "en_name": "Jagdpanzer E 100",
+    "ru_name": "Jagdpanzer E 100",
+    "nation": "germany",
+    "class": "AT-SPG",
+    "level": 10,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "JagdPz_E100",
+    "cd": 12049
   },
   {
     "en_name": "Cruiser Mk. I",
@@ -5643,15 +5742,15 @@
     "cd": 1633
   },
   {
-    "en_name": "Pz.Kpfw. V/IV",
-    "ru_name": "Pz.Kpfw. V/IV",
-    "nation": "germany",
-    "class": "mediumTank",
-    "level": 5,
-    "tags": "premium",
-    "price_gold": 2400,
-    "tech_name": "PzV_PzIV",
-    "cd": 51473
+    "en_name": "TL-7-120",
+    "ru_name": "TL-7-120",
+    "nation": "usa",
+    "class": "heavyTank",
+    "level": 9,
+    "tags": "premium; collectible",
+    "price_gold": 10000,
+    "tech_name": "A146_TL_7_120",
+    "cd": 27425
   },
   {
     "en_name": "CS-52 LIS",
@@ -5709,8 +5808,8 @@
     "cd": 19217
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "FV1066 Senlac",
+    "ru_name": "FV1066 Senlac",
     "nation": "uk",
     "class": "lightTank",
     "level": 8,
@@ -5828,17 +5927,6 @@
     "price_gold": 0,
     "tech_name": "PzII_tutorial_bot2",
     "cd": 20241
-  },
-  {
-    "en_name": "T-26",
-    "ru_name": "Т-26",
-    "nation": "ussr",
-    "class": "lightTank",
-    "level": 1,
-    "tags": "",
-    "price_gold": 0,
-    "tech_name": "T-26_tutorial_bot",
-    "cd": 19201
   },
   {
     "en_name": "53TP Markowskiego",
@@ -6292,8 +6380,8 @@
     "cd": 11585
   },
   {
-    "en_name": "#european_vehicles:Pl20_CS_44",
-    "ru_name": "#european_vehicles:Pl20_CS_44",
+    "en_name": "CS-44",
+    "ru_name": "CS-44",
     "nation": "european",
     "class": "mediumTank",
     "level": 7,
@@ -6303,15 +6391,15 @@
     "cd": 15745
   },
   {
-    "en_name": "Jagdpanzer E 100",
-    "ru_name": "Jagdpanzer E 100",
+    "en_name": "Jagdpanther",
+    "ru_name": "Jagdpanther",
     "nation": "germany",
     "class": "AT-SPG",
-    "level": 10,
+    "level": 7,
     "tags": "",
     "price_gold": 0,
-    "tech_name": "JagdPz_E100",
-    "cd": 12049
+    "tech_name": "JagdPanther",
+    "cd": 3857
   },
   {
     "en_name": "LTG",
@@ -6448,6 +6536,17 @@
   {
     "en_name": "None",
     "ru_name": "None",
+    "nation": "ussr",
+    "class": "mediumTank",
+    "level": 9,
+    "tags": "premium",
+    "price_gold": 7500,
+    "tech_name": "R187_Object_590",
+    "cd": 26881
+  },
+  {
+    "en_name": "#germany_vehicles:PzVI_AusfTUR",
+    "ru_name": "#germany_vehicles:PzVI_AusfTUR",
     "nation": "germany",
     "class": "heavyTank",
     "level": 6,
@@ -6479,15 +6578,15 @@
     "cd": 3905
   },
   {
-    "en_name": "Pawlack Tank",
-    "ru_name": "Pawlack Tank",
-    "nation": "usa",
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
     "class": "heavyTank",
-    "level": 6,
-    "tags": "premium",
-    "price_gold": 2500,
-    "tech_name": "A142_Pawlack_Tank",
-    "cd": 27681
+    "level": 7,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Ch51_BZ_58",
+    "cd": 12337
   },
   {
     "en_name": "P.43 ter",
@@ -6840,6 +6939,17 @@
     "price_gold": 3100,
     "tech_name": "GB_Churchill_MkVI",
     "cd": 1361
+  },
+  {
+    "en_name": "Pz.Kpfw. V/IV",
+    "ru_name": "Pz.Kpfw. V/IV",
+    "nation": "germany",
+    "class": "mediumTank",
+    "level": 5,
+    "tags": "premium",
+    "price_gold": 2400,
+    "tech_name": "PzV_PzIV",
+    "cd": 51473
   },
   {
     "en_name": "Indien-Panzer",
