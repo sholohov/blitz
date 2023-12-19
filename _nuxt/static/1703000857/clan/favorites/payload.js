@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clan/favorites", {data:[{},{}],fetch:{},mutations:void 0});
