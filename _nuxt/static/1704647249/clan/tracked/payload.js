@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clan/tracked", {data:[{},{}],fetch:{},mutations:void 0});

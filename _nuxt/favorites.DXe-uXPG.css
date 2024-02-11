@@ -1,0 +1,1 @@
+.account-favorites__link{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.account-favorites{position:relative}.account-favorites__total{margin:0 0 4px}.account-favorites__total-title{color:var(--color-text-light)}.account-favorites__link{display:block;font-weight:500;max-width:calc(100vw - 140px)}.account-favorites__win-rate{color:var(--win-rate-color);font-weight:500}

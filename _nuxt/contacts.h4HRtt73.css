@@ -1,0 +1,1 @@
+.account-contacts__link{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.account-contacts{position:relative}.account-contacts__total{margin:0 0 4px}.account-contacts__total-title{color:var(--color-text-light)}.account-contacts__link{display:block;font-weight:500;max-width:calc(100vw - 140px)}.account-contacts__win-rate{font-weight:500}

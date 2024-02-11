@@ -1,0 +1,1 @@
+import{f as a,o,c as t,C as n}from"./entry.DP5yAQ98.js";const s=a({__name:"ContentLoader",props:{loading:{type:Boolean,default:!1},backdropLight:{type:Boolean,default:!1}},setup(e){return(l,c)=>(o(),t("div",{class:n(["content-loader",[e.loading?"content-loader--is-active":"",e.backdropLight!==!1?"content-loader--hide-backdrop":""]])},null,2))}});export{s as _};

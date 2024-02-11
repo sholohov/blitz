@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/widgets/account-session", {data:[{}],fetch:{},mutations:void 0});
