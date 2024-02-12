@@ -253,8 +253,8 @@
     "cd": 6209
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Type 5 Ka-Ri",
+    "ru_name": "Type 5 Ka-Ri",
     "nation": "japan",
     "class": "AT-SPG",
     "level": 8,
@@ -682,6 +682,17 @@
     "cd": 5121
   },
   {
+    "en_name": "TS-60",
+    "ru_name": "TS-60",
+    "nation": "usa",
+    "class": "AT-SPG",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7500,
+    "tech_name": "A151_TS_60",
+    "cd": 28193
+  },
+  {
     "en_name": "M3 Lee",
     "ru_name": "M3 Lee",
     "nation": "usa",
@@ -757,6 +768,17 @@
     "price_gold": 500,
     "tech_name": "Type_58BP",
     "cd": 9009
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 10,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth46_LV1300",
+    "cd": 13169
   },
   {
     "en_name": "IS-4",
@@ -847,6 +869,17 @@
     "cd": 10033
   },
   {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 6,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth50_LV7",
+    "cd": 14193
+  },
+  {
     "en_name": "SU-152",
     "ru_name": "СУ-152",
     "nation": "ussr",
@@ -900,6 +933,17 @@
     "price_gold": 0,
     "tech_name": "Pl23_CS_53",
     "cd": 15489
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "ussr",
+    "class": "lightTank",
+    "level": 8,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "R198_LTS_85",
+    "cd": 27393
   },
   {
     "en_name": "Panther II",
@@ -1133,6 +1177,17 @@
     "cd": 9217
   },
   {
+    "en_name": "Panther/M10",
+    "ru_name": "Panther/M10",
+    "nation": "germany",
+    "class": "mediumTank",
+    "level": 7,
+    "tags": "premium",
+    "price_gold": 4750,
+    "tech_name": "Panther_M10",
+    "cd": 57617
+  },
+  {
     "en_name": "VK 45.02 (P) Ausf. A",
     "ru_name": "VK 45.02 (P) Ausf. A",
     "nation": "germany",
@@ -1353,6 +1408,17 @@
     "cd": 60161
   },
   {
+    "en_name": "AMBT",
+    "ru_name": "AMBT",
+    "nation": "usa",
+    "class": "mediumTank",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7000,
+    "tech_name": "A149_AMBT",
+    "cd": 29473
+  },
+  {
     "en_name": "Progetto M35 mod. 46",
     "ru_name": "Progetto M35 mod. 46",
     "nation": "european",
@@ -1538,6 +1604,17 @@
     "price_gold": 50,
     "tech_name": "Ke_Ni",
     "cd": 2401
+  },
+  {
+    "en_name": "КВ-1С МЗ",
+    "ru_name": "КВ-1С МЗ",
+    "nation": "ussr",
+    "class": "heavyTank",
+    "level": 6,
+    "tags": "premium; collectible",
+    "price_gold": 500,
+    "tech_name": "R197_KV_1S_MZ",
+    "cd": 27649
   },
   {
     "en_name": "E 25",
@@ -2673,6 +2750,17 @@
     "cd": 9777
   },
   {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 7,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth49_LV90",
+    "cd": 13937
+  },
+  {
     "en_name": "SU-85B",
     "ru_name": "СУ-85Б",
     "nation": "ussr",
@@ -2783,6 +2871,17 @@
     "cd": 10801
   },
   {
+    "en_name": "Type 3 Chi-Nu Kai",
+    "ru_name": "Type 3 Chi-Nu Kai",
+    "nation": "japan",
+    "class": "mediumTank",
+    "level": 5,
+    "tags": "premium",
+    "price_gold": 2100,
+    "tech_name": "Chi_Nu_Kai",
+    "cd": 65377
+  },
+  {
     "en_name": "T-54",
     "ru_name": "Т-54",
     "nation": "ussr",
@@ -2880,6 +2979,17 @@
     "price_gold": 0,
     "tech_name": "Ch11_110",
     "cd": 2865
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 5,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth51_LV4",
+    "cd": 14449
   },
   {
     "en_name": "M-IV-Y",
@@ -3003,15 +3113,15 @@
     "cd": 58881
   },
   {
-    "en_name": "TS-60",
-    "ru_name": "TS-60",
-    "nation": "usa",
+    "en_name": "WZ-1G-P Бесстрашный",
+    "ru_name": "WZ-1G-P Бесстрашный",
+    "nation": "china",
     "class": "AT-SPG",
     "level": 8,
     "tags": "premium",
-    "price_gold": 7500,
-    "tech_name": "A151_TS_60",
-    "cd": 28193
+    "price_gold": 7200,
+    "tech_name": "Ch36_WZ-111-1G_FT_Com",
+    "cd": 12849
   },
   {
     "en_name": "Lago",
@@ -3135,15 +3245,15 @@
     "cd": 59905
   },
   {
-    "en_name": "Panther/M10",
-    "ru_name": "Panther/M10",
-    "nation": "germany",
-    "class": "mediumTank",
-    "level": 7,
+    "en_name": "T32E4",
+    "ru_name": "T32E4",
+    "nation": "usa",
+    "class": "heavyTank",
+    "level": 8,
     "tags": "premium",
-    "price_gold": 4750,
-    "tech_name": "Panther_M10",
-    "cd": 57617
+    "price_gold": 7200,
+    "tech_name": "T32E4",
+    "cd": 29217
   },
   {
     "en_name": "FCM 50 t",
@@ -4499,6 +4609,17 @@
     "cd": 9521
   },
   {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 8,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth48_LV500",
+    "cd": 13681
+  },
+  {
     "en_name": "T-43",
     "ru_name": "Т-43",
     "nation": "ussr",
@@ -4629,6 +4750,17 @@
     "price_gold": 500,
     "tech_name": "T21_BP",
     "cd": 25889
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "mediumTank",
+    "level": 8,
+    "tags": "premium; collectible",
+    "price_gold": 5000,
+    "tech_name": "Oth52_ST_0424",
+    "cd": 14705
   },
   {
     "en_name": "Pz.Kpfw. 38 (t)",
@@ -4884,15 +5016,15 @@
     "cd": 11025
   },
   {
-    "en_name": "Type 3 Chi-Nu Kai",
-    "ru_name": "Type 3 Chi-Nu Kai",
-    "nation": "japan",
-    "class": "mediumTank",
-    "level": 5,
-    "tags": "premium",
-    "price_gold": 2100,
-    "tech_name": "Chi_Nu_Kai",
-    "cd": 65377
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "ussr",
+    "class": "heavyTank",
+    "level": 9,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "R191_Object_283",
+    "cd": 27137
   },
   {
     "en_name": "Mitsu 108",
@@ -4961,8 +5093,8 @@
     "cd": 59649
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#usa_vehicles:M4A3E8TUR",
+    "ru_name": "#usa_vehicles:M4A3E8TUR",
     "nation": "usa",
     "class": "mediumTank",
     "level": 6,
@@ -6270,6 +6402,17 @@
     "cd": 9265
   },
   {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 9,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "Oth47_LV750",
+    "cd": 13425
+  },
+  {
     "en_name": "Strv 81",
     "ru_name": "Strv 81",
     "nation": "european",
@@ -6479,8 +6622,8 @@
     "cd": 57105
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#china_vehicles:Type_58TUR",
+    "ru_name": "#china_vehicles:Type_58TUR",
     "nation": "china",
     "class": "mediumTank",
     "level": 6,
@@ -6631,6 +6774,17 @@
     "price_gold": 0,
     "tech_name": "PzVI_Tiger_P",
     "cd": 10769
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "germany",
+    "class": "heavyTank",
+    "level": 9,
+    "tags": "premium",
+    "price_gold": 15000,
+    "tech_name": "E75_CL",
+    "cd": 27409
   },
   {
     "en_name": "T95E2",
