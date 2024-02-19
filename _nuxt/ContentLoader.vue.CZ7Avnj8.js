@@ -1,1 +1,0 @@
-import{n as a,o,c as n,J as t}from"./entry.C7rsCkde.js";const s=a({__name:"ContentLoader",props:{loading:{type:Boolean,default:!1},backdropLight:{type:Boolean,default:!1}},setup(e){return(l,c)=>(o(),n("div",{class:t(["content-loader",[e.loading?"content-loader--is-active":"",e.backdropLight!==!1?"content-loader--hide-backdrop":""]])},null,2))}});export{s as _};
