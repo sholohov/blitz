@@ -1,0 +1,1 @@
+.content-box{box-sizing:border-box}.content-box:not(.is-no-padding){padding:0 20px}@media only screen and (max-width:640px){.content-box:not(.is-no-padding){padding:0 10px}}.content-box__inner{box-sizing:border-box}
