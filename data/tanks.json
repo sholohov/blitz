@@ -770,8 +770,8 @@
     "cd": 9009
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#other_vehicles:Oth46_LV1300",
+    "ru_name": "#other_vehicles:Oth46_LV1300",
     "nation": "other",
     "class": "heavyTank",
     "level": 10,
@@ -869,8 +869,8 @@
     "cd": 10033
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#other_vehicles:Oth50_LV7",
+    "ru_name": "#other_vehicles:Oth50_LV7",
     "nation": "other",
     "class": "heavyTank",
     "level": 6,
@@ -2750,8 +2750,8 @@
     "cd": 9777
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#other_vehicles:Oth49_LV90",
+    "ru_name": "#other_vehicles:Oth49_LV90",
     "nation": "other",
     "class": "heavyTank",
     "level": 7,
@@ -2869,6 +2869,17 @@
     "price_gold": 500,
     "tech_name": "Ch34_WZ-131G_FT_BP",
     "cd": 10801
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "other",
+    "class": "heavyTank",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 5000,
+    "tech_name": "Oth53_LV426",
+    "cd": 14961
   },
   {
     "en_name": "Type 3 Chi-Nu Kai",
@@ -4609,8 +4620,8 @@
     "cd": 9521
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#other_vehicles:Oth48_LV500",
+    "ru_name": "#other_vehicles:Oth48_LV500",
     "nation": "other",
     "class": "heavyTank",
     "level": 8,
@@ -4752,11 +4763,11 @@
     "cd": 25889
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "#other_vehicles:Oth52_ST_0424",
+    "ru_name": "#other_vehicles:Oth52_ST_0424",
     "nation": "other",
     "class": "mediumTank",
-    "level": 8,
+    "level": 7,
     "tags": "premium; collectible",
     "price_gold": 5000,
     "tech_name": "Oth52_ST_0424",
@@ -5016,13 +5027,13 @@
     "cd": 11025
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "Объект 283",
+    "ru_name": "Объект 283",
     "nation": "ussr",
-    "class": "heavyTank",
+    "class": "mediumTank",
     "level": 9,
-    "tags": "",
-    "price_gold": 0,
+    "tags": "premium",
+    "price_gold": 15000,
     "tech_name": "R191_Object_283",
     "cd": 27137
   },
@@ -5047,6 +5058,17 @@
     "price_gold": 10000,
     "tech_name": "S01_Frankentank",
     "cd": 64017
+  },
+  {
+    "en_name": "#germany_vehicles:G_Erich_K_I",
+    "ru_name": "#germany_vehicles:G_Erich_K_I",
+    "nation": "germany",
+    "class": "mediumTank",
+    "level": 10,
+    "tags": "premium; collectible",
+    "price_gold": 15000,
+    "tech_name": "G_Erich_K_I",
+    "cd": 27665
   },
   {
     "en_name": "T6E1 Grizzly",
@@ -6776,13 +6798,13 @@
     "cd": 10769
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "E 75 Berserker",
+    "ru_name": "E 75 Berserker",
     "nation": "germany",
     "class": "heavyTank",
     "level": 9,
-    "tags": "premium",
-    "price_gold": 15000,
+    "tags": "premium; collectible",
+    "price_gold": 10000,
     "tech_name": "E75_CL",
     "cd": 27409
   },
