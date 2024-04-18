@@ -1474,6 +1474,17 @@
     "cd": 5185
   },
   {
+    "en_name": "КВ-4 Турчанинова",
+    "ru_name": "КВ-4 Турчанинова",
+    "nation": "ussr",
+    "class": "heavyTank",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7600,
+    "tech_name": "R200_KV_4T",
+    "cd": 27905
+  },
+  {
     "en_name": "Cruiser Mk. II",
     "ru_name": "Cruiser Mk. II",
     "nation": "uk",
@@ -4763,8 +4774,8 @@
     "cd": 25889
   },
   {
-    "en_name": "#other_vehicles:Oth52_ST_0424",
-    "ru_name": "#other_vehicles:Oth52_ST_0424",
+    "en_name": "Спутник",
+    "ru_name": "Спутник",
     "nation": "other",
     "class": "mediumTank",
     "level": 7,
@@ -5032,8 +5043,8 @@
     "nation": "ussr",
     "class": "mediumTank",
     "level": 9,
-    "tags": "premium",
-    "price_gold": 15000,
+    "tags": "premium; collectible",
+    "price_gold": 10000,
     "tech_name": "R191_Object_283",
     "cd": 27137
   },
@@ -5060,8 +5071,8 @@
     "cd": 64017
   },
   {
-    "en_name": "#germany_vehicles:G_Erich_K_I",
-    "ru_name": "#germany_vehicles:G_Erich_K_I",
+    "en_name": "Erich Konzept I",
+    "ru_name": "Erich Konzept I",
     "nation": "germany",
     "class": "mediumTank",
     "level": 10,

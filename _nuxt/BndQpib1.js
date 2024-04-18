@@ -1,7 +1,0 @@
-function __vite__mapDeps(indexes) {
-  if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["./CVTXfaOm.js","./-p8L5eN0.js","./DlAUqK2U.js","./C1pZ3Ysy.js","./nuxt-icon.MfBulapQ.css","./WC_LIWGC.js","./CjYJxv9f.js","./DPg5BHOY.js"]
-  }
-  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
-}
-import{f as s,o as i,j as n,C as c,D as l,k as m,m as u,E as _,_ as t}from"./C1pZ3Ysy.js";import{a as d}from"./C2BuzcM2.js";const h=s({__name:"RoleIcon",props:{role:{type:String,default:"",required:!0},width:{type:String,default:"100%"},height:{type:String,default:"auto"}},setup(e){const r=e,o={commander:"leader",executive_officer:"vice-leader",private:"private",recruit:"recruit"},a=_(()=>d(Object.assign({"../assets/icons/ranks/leader.svg":()=>t(()=>import("./CVTXfaOm.js"),__vite__mapDeps([0,1,2,3,4]),import.meta.url),"../assets/icons/ranks/private.svg":()=>t(()=>import("./WC_LIWGC.js"),__vite__mapDeps([5,1,2,3,4]),import.meta.url),"../assets/icons/ranks/recruit.svg":()=>t(()=>import("./CjYJxv9f.js"),__vite__mapDeps([6,1,2,3,4]),import.meta.url),"../assets/icons/ranks/vice-leader.svg":()=>t(()=>import("./DPg5BHOY.js"),__vite__mapDeps([7,1,2,3,4]),import.meta.url)}),`../assets/icons/ranks/${o[r.role]}.svg`));return(p,v)=>e.role?(i(),n(l(m(a)),{key:0,filled:!0,"font-controlled":!1,class:c(["role-icon",["role-icon--"+e.role]]),width:e.width,height:e.height},null,8,["class","width","height"])):u("",!0)}});export{h as _};
