@@ -770,8 +770,8 @@
     "cd": 9009
   },
   {
-    "en_name": "#other_vehicles:Oth46_LV1300",
-    "ru_name": "#other_vehicles:Oth46_LV1300",
+    "en_name": "ЛВ-1300 Уран",
+    "ru_name": "ЛВ-1300 Уран",
     "nation": "other",
     "class": "heavyTank",
     "level": 10,
@@ -869,8 +869,8 @@
     "cd": 10033
   },
   {
-    "en_name": "#other_vehicles:Oth50_LV7",
-    "ru_name": "#other_vehicles:Oth50_LV7",
+    "en_name": "ЛВ-7 Гиперион",
+    "ru_name": "ЛВ-7 Гиперион",
     "nation": "other",
     "class": "heavyTank",
     "level": 6,
@@ -935,13 +935,13 @@
     "cd": 15489
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "ЛТС-85",
+    "ru_name": "ЛТС-85",
     "nation": "ussr",
     "class": "lightTank",
     "level": 8,
-    "tags": "",
-    "price_gold": 0,
+    "tags": "premium; collectible",
+    "price_gold": 7500,
     "tech_name": "R198_LTS_85",
     "cd": 27393
   },
@@ -1276,15 +1276,15 @@
     "cd": 59137
   },
   {
-    "en_name": "T42",
-    "ru_name": "T42",
-    "nation": "usa",
-    "class": "mediumTank",
-    "level": 7,
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
+    "class": "heavyTank",
+    "level": 8,
     "tags": "premium",
-    "price_gold": 5000,
-    "tech_name": "A136_T42",
-    "cd": 28449
+    "price_gold": 7200,
+    "tech_name": "Ch46_113_140",
+    "cd": 13105
   },
   {
     "en_name": "Strv m/42",
@@ -2761,8 +2761,8 @@
     "cd": 9777
   },
   {
-    "en_name": "#other_vehicles:Oth49_LV90",
-    "ru_name": "#other_vehicles:Oth49_LV90",
+    "en_name": "ЛВ-90 Прометей",
+    "ru_name": "ЛВ-90 Прометей",
     "nation": "other",
     "class": "heavyTank",
     "level": 7,
@@ -2882,8 +2882,8 @@
     "cd": 10801
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "ЛВ-426 Атлант",
+    "ru_name": "ЛВ-426 Атлант",
     "nation": "other",
     "class": "heavyTank",
     "level": 8,
@@ -3003,8 +3003,8 @@
     "cd": 2865
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "ЛВ-4 Понт",
+    "ru_name": "ЛВ-4 Понт",
     "nation": "other",
     "class": "heavyTank",
     "level": 5,
@@ -3056,6 +3056,17 @@
     "price_gold": 1500,
     "tech_name": "KV-13",
     "cd": 8961
+  },
+  {
+    "en_name": "#usa_vehicles:M4A3E8TUR",
+    "ru_name": "#usa_vehicles:M4A3E8TUR",
+    "nation": "usa",
+    "class": "mediumTank",
+    "level": 6,
+    "tags": "",
+    "price_gold": 0,
+    "tech_name": "M4A3E8TUR",
+    "cd": 28961
   },
   {
     "en_name": "AMX 13 90",
@@ -4631,8 +4642,8 @@
     "cd": 9521
   },
   {
-    "en_name": "#other_vehicles:Oth48_LV500",
-    "ru_name": "#other_vehicles:Oth48_LV500",
+    "en_name": "ЛВ-500 Арес",
+    "ru_name": "ЛВ-500 Арес",
     "nation": "other",
     "class": "heavyTank",
     "level": 8,
@@ -4794,6 +4805,17 @@
     "price_gold": 50,
     "tech_name": "Pz38t",
     "cd": 3345
+  },
+  {
+    "en_name": "XM66F",
+    "ru_name": "XM66F",
+    "nation": "usa",
+    "class": "AT-SPG",
+    "level": 10,
+    "tags": "premium; collectible",
+    "price_gold": 15000,
+    "tech_name": "A153_XM66F",
+    "cd": 28705
   },
   {
     "en_name": "B.U.G.I.",
@@ -5126,15 +5148,15 @@
     "cd": 59649
   },
   {
-    "en_name": "#usa_vehicles:M4A3E8TUR",
-    "ru_name": "#usa_vehicles:M4A3E8TUR",
-    "nation": "usa",
-    "class": "mediumTank",
-    "level": 6,
-    "tags": "",
-    "price_gold": 0,
-    "tech_name": "M4A3E8TUR",
-    "cd": 28961
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "china",
+    "class": "heavyTank",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7500,
+    "tech_name": "Ch47_BZ-176",
+    "cd": 13617
   },
   {
     "en_name": "10TP",
@@ -6435,8 +6457,8 @@
     "cd": 9265
   },
   {
-    "en_name": "None",
-    "ru_name": "None",
+    "en_name": "ЛВ-750 Паллада",
+    "ru_name": "ЛВ-750 Паллада",
     "nation": "other",
     "class": "heavyTank",
     "level": 9,
@@ -6444,6 +6466,17 @@
     "price_gold": 0,
     "tech_name": "Oth47_LV750",
     "cd": 13425
+  },
+  {
+    "en_name": "T42",
+    "ru_name": "T42",
+    "nation": "usa",
+    "class": "mediumTank",
+    "level": 7,
+    "tags": "premium",
+    "price_gold": 5000,
+    "tech_name": "A136_T42",
+    "cd": 28449
   },
   {
     "en_name": "Strv 81",
@@ -6853,15 +6886,15 @@
     "cd": 5985
   },
   {
-    "en_name": "XM66F",
-    "ru_name": "XM66F",
-    "nation": "usa",
-    "class": "AT-SPG",
+    "en_name": "#china_vehicles:Ch52_WZ_122_6_F3",
+    "ru_name": "#china_vehicles:Ch52_WZ_122_6_F3",
+    "nation": "china",
+    "class": "heavyTank",
     "level": 10,
-    "tags": "premium; collectible",
+    "tags": "premium",
     "price_gold": 15000,
-    "tech_name": "A153_XM66F",
-    "cd": 28705
+    "tech_name": "Ch52_WZ_122_6_F3",
+    "cd": 13361
   },
   {
     "en_name": "AMX Chasseur de chars",
@@ -7027,6 +7060,17 @@
     "price_gold": 15000,
     "tech_name": "R115_IS-3_auto",
     "cd": 60417
+  },
+  {
+    "en_name": "AAT60",
+    "ru_name": "AAT60",
+    "nation": "usa",
+    "class": "AT-SPG",
+    "level": 10,
+    "tags": "premium; collectible",
+    "price_gold": 15000,
+    "tech_name": "A155_AAT60",
+    "cd": 29729
   },
   {
     "en_name": "AMX 12 t",
