@@ -858,6 +858,17 @@
     "cd": 8737
   },
   {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "france",
+    "class": "lightTank",
+    "level": 9,
+    "tags": "premium; collectible",
+    "price_gold": 500,
+    "tech_name": "F118_Char_Mle_75",
+    "cd": 20801
+  },
+  {
     "en_name": "WZ-132A",
     "ru_name": "WZ-132A",
     "nation": "china",
@@ -2888,7 +2899,7 @@
     "class": "heavyTank",
     "level": 8,
     "tags": "premium",
-    "price_gold": 5000,
+    "price_gold": 7200,
     "tech_name": "Oth53_LV426",
     "cd": 14961
   },
@@ -3243,6 +3254,17 @@
     "price_gold": 7350,
     "tech_name": "F116_Bat_Chat_Bourrasque",
     "cd": 18241
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "germany",
+    "class": "heavyTank",
+    "level": 8,
+    "tags": "premium",
+    "price_gold": 7300,
+    "tech_name": "PzVIB_Gold",
+    "cd": 27921
   },
   {
     "en_name": "Nameless",
@@ -6886,12 +6908,12 @@
     "cd": 5985
   },
   {
-    "en_name": "#china_vehicles:Ch52_WZ_122_6_F3",
-    "ru_name": "#china_vehicles:Ch52_WZ_122_6_F3",
+    "en_name": "116-F3",
+    "ru_name": "116-F3",
     "nation": "china",
     "class": "heavyTank",
     "level": 10,
-    "tags": "premium",
+    "tags": "premium; collectible",
     "price_gold": 15000,
     "tech_name": "Ch52_WZ_122_6_F3",
     "cd": 13361
@@ -7115,6 +7137,17 @@
     "price_gold": 25,
     "tech_name": "GB05_Vickers_Medium_Mk_II",
     "cd": 337
+  },
+  {
+    "en_name": "None",
+    "ru_name": "None",
+    "nation": "ussr",
+    "class": "mediumTank",
+    "level": 6,
+    "tags": "premium; collectible",
+    "price_gold": 500,
+    "tech_name": "R_T_V_85",
+    "cd": 28161
   },
   {
     "en_name": "Cruiser Mk. II",
