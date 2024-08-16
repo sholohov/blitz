@@ -1,1 +1,0 @@
-import{av as s}from"./BM_c6A7U.js";const t={accountId:0,name:"Гость"},r=s("auth",{state:()=>({...t}),actions:{resetUser(){this.$patch({...t})},setUser(e){this.$patch(e)}}});export{r as u};
