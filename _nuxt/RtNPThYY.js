@@ -1,0 +1,1 @@
+import{d as e,u as t,l as a,o}from"./DJlEGeV1.js";const n={class:"recruitment-tour-team-page"},m=e({__name:"tournament",setup(s){return t({title:"Подбор тур. команды"}),(r,c)=>(o(),a("div",n," В разработке... "))}});export{m as default};

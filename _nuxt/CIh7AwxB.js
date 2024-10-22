@@ -1,0 +1,1 @@
+import{d as a,o as n,e as s,w as o,m as r,J as l,E as i,G as c}from"./DJlEGeV1.js";const p=a({__name:"ContentBox",props:{tag:{type:String,default:"div"},innerClass:{type:String,default:void 0}},setup(e){return(t,d)=>(n(),s(c(e.tag),{class:"content-box"},{default:o(()=>[r("div",{class:i(["content-box__inner",[e.innerClass]])},[l(t.$slots,"default")],2)]),_:3}))}});export{p as _};

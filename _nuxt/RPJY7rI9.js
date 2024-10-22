@@ -1,0 +1,1 @@
+const a=()=>{const t="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";try{return t.replace(/[xy]/g,x=>(Number(x)^crypto.getRandomValues(new Uint8Array(1))[0]&15>>Number(x)/4).toString(16))}catch{return t.replace(/[xy]/g,e=>{const r=Math.random()*16|0;return(e==="x"?r:r&3|8).toString(16)})}};export{a as g};

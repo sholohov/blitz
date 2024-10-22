@@ -441,7 +441,7 @@
   },
   {
     "en_name": "Rheinmetall Skorpion G",
-    "ru_name": "Rheinmetall Skorpion G",
+    "ru_name": "Skorpion G",
     "nation": "germany",
     "class": "AT-SPG",
     "level": 8,
@@ -1364,8 +1364,8 @@
     "cd": 6513
   },
   {
-    "en_name": "#germany_vehicles:G162_Project_Kpz_07P_E",
-    "ru_name": "#germany_vehicles:G162_Project_Kpz_07P_E",
+    "en_name": "Kampfpanzer 07 P(E)",
+    "ru_name": "Kampfpanzer 07 P(E)",
     "nation": "germany",
     "class": "heavyTank",
     "level": 10,
@@ -1695,7 +1695,7 @@
   },
   {
     "en_name": "T34 Independence",
-    "ru_name": "T34 Independence",
+    "ru_name": "T34 (1776)",
     "nation": "usa",
     "class": "heavyTank",
     "level": 8,
@@ -1925,13 +1925,13 @@
     "cd": 513
   },
   {
-    "en_name": "#france_vehicles:Bat-Chat-25CL",
-    "ru_name": "#france_vehicles:Bat-Chat-25CL",
+    "en_name": "Bat.-Châtillon 25 t Roland",
+    "ru_name": "Bat.-Châtillon 25 t Roland",
     "nation": "france",
     "class": "lightTank",
     "level": 9,
-    "tags": "premium",
-    "price_gold": 500,
+    "tags": "premium; collectible",
+    "price_gold": 10000,
     "tech_name": "Bat-Chat-25CL",
     "cd": 19521
   },
@@ -2447,8 +2447,8 @@
     "nation": "uk",
     "class": "AT-SPG",
     "level": 10,
-    "tags": "",
-    "price_gold": 0,
+    "tags": "premium; collectible",
+    "price_gold": 15000,
     "tech_name": "GB48_FV215b_183",
     "cd": 9297
   },
@@ -3377,6 +3377,17 @@
     "cd": 60929
   },
   {
+    "en_name": "MBT-B",
+    "ru_name": "MBT-B",
+    "nation": "usa",
+    "class": "heavyTank",
+    "level": 10,
+    "tags": "premium; collectible",
+    "price_gold": 15000,
+    "tech_name": "A150_MBT_B",
+    "cd": 30241
+  },
+  {
     "en_name": "Strv 74",
     "ru_name": "Strv 74",
     "nation": "european",
@@ -3950,7 +3961,7 @@
   },
   {
     "en_name": "Spähpanzer Ru 251",
-    "ru_name": "Spähpanzer Ru 251",
+    "ru_name": "Ru 251",
     "nation": "germany",
     "class": "lightTank",
     "level": 8,
@@ -4038,7 +4049,7 @@
   },
   {
     "en_name": "T-54 ltwt.",
-    "ru_name": "Т-54 облегчённый",
+    "ru_name": "Т-54 обл.",
     "nation": "ussr",
     "class": "lightTank",
     "level": 8,
@@ -4092,8 +4103,8 @@
     "cd": 19473
   },
   {
-    "en_name": "#uk_vehicles:GB129_FV205b_Alligator",
-    "ru_name": "#uk_vehicles:GB129_FV205b_Alligator",
+    "en_name": "FV205b Alligator",
+    "ru_name": "FV205b Alligator",
     "nation": "uk",
     "class": "AT-SPG",
     "level": 10,

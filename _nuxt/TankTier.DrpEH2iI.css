@@ -1,0 +1,1 @@
+.tank-type{color:var(--color-text-lightest)}.tank-type--is-premium{color:var(--color-orange)}.tank-type--is-collectible{color:var(--color-blue)}.tank-nation{display:inline-flex;-o-object-fit:cover;object-fit:cover}.tank-tier{align-items:center;color:var(--color-text-lightest);display:inline-flex;font-size:14px;height:24px;justify-content:center;width:24px}

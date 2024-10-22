@@ -1,1 +1,0 @@
-import{f as a,o as n,j as s,w as o,a as r,C as l,G as i,D as c}from"./C0--9zv3.js";const m=a({__name:"ContentBox",props:{tag:{type:String,default:"div"},innerClass:{type:String,default:void 0}},setup(e){return(t,d)=>(n(),s(c(e.tag),{class:"content-box"},{default:o(()=>[r("div",{class:l(["content-box__inner",[e.innerClass]])},[i(t.$slots,"default")],2)]),_:3}))}});export{m as _};

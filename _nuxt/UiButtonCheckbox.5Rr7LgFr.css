@@ -1,0 +1,1 @@
+.ui-button-checkbox__indicator{background-color:var(--border-color-light);height:20px;transition:background-color .2s;width:4px}.ui-button-checkbox__indicator.is-active{background-color:var(--color-green)}.ui-button-checkbox__before{align-self:center;display:inline-flex;margin:0 0 0 4px}.ui-button-checkbox__before:empty{display:none}
