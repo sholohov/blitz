@@ -1,1 +1,0 @@
-import{u as n}from"./roZIKyQo.js";const c=(e,s)=>{const o=n(),r=((t=>t instanceof Error)(e)?s.message||e.message:"")||"Не известная ошибка";console.error(e),!r.includes("Too Many Requests")&&o.add({type:"error",title:s.title,message:r})};export{c as u};

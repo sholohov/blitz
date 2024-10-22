@@ -1,0 +1,1 @@
+import{d as e,u as t,l as s,o as a}from"./CKv8GwDH.js";const n={class:"recruitment-clans-page"},l=e({__name:"clans",setup(c){return t({title:"Подбор клана"}),(o,r)=>(a(),s("div",n," В разработке... "))}});export{l as default};
