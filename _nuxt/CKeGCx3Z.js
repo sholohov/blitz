@@ -1,0 +1,1 @@
+const u=(e,t)=>{if(e===t)return!0;if(e===null||t===null||typeof e!="object"||typeof t!="object")return!1;const n=Object.keys(e),s=Object.keys(t);if(n.length!==s.length)return!1;for(let r=0;r<n.length;r+=1){const l=n[r];if(!s.includes(l)||!u(e[l],t[l]))return!1}return!0};export{u as d};

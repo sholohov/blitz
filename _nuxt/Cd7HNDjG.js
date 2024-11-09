@@ -1,1 +1,0 @@
-import{aM as s}from"./CKv8GwDH.js";import{c as a}from"./DSHhIHB-.js";const e={accountId:0,name:"Гость"},c=s("auth",{state:()=>({...e}),actions:{resetUser(){this.$patch(a(e))},setUser(t){this.$patch(t)}}});export{c as u};
