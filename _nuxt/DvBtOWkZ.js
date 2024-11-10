@@ -1,0 +1,1 @@
+import{d as e,u as t,m as s,o as a}from"./DEnf58KD.js";const n={class:"recruitment-clans-page"},l=e({__name:"clans",setup(c){return t({title:"Подбор клана"}),(o,r)=>(a(),s("div",n," В разработке... "))}});export{l as default};

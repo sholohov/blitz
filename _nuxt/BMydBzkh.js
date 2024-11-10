@@ -1,0 +1,1 @@
+import{d as e,u as t,m as a,o}from"./DEnf58KD.js";const n={class:"recruitment-tour-team-page"},_=e({__name:"tournament",setup(s){return t({title:"Подбор тур. команды"}),(r,c)=>(o(),a("div",n," В разработке... "))}});export{_ as default};
