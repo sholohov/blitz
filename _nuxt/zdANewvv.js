@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{o as c,n as t}from"./CbpaTVLF.js";const n={},o={class:"recruitment-clans-page"};function r(s,a){return c(),t("div",o," В разработке... ")}const i=e(n,[["render",r]]);export{i as default};

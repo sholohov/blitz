@@ -1,0 +1,1 @@
+import{d as o,u as s,a as r,b as a}from"./BytUdlbn.js";import{c as n}from"./B4FMxlHh.js";const i=o({__name:"index",setup(u){const{$formatter:t}=s(),e=r();return a({title:()=>t.route.getTitle(n.toString(e.name)??"")}),()=>{}}});export{i as default};
