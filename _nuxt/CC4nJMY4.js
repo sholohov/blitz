@@ -1,0 +1,1 @@
+import{d as t,o as e,n,t as s,H as a}from"./CbpaTVLF.js";const i=["textContent"],d=t({__name:"LeaderboardPosition",props:{position:{type:Number,default:0}},setup(o){return(r,l)=>(e(),n("div",{class:a(["leaderboard-position",["leaderboard-position--"+o.position]]),textContent:s(o.position)},null,10,i))}});export{d as _};
