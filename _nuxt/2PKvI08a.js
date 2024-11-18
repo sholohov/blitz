@@ -1,1 +1,0 @@
-import{d as a,o as n,f as s,w as o,s as r,I as l,N as i,J as c}from"./BytUdlbn.js";const m=a({__name:"ContentBox",props:{tag:{type:String,default:"div"},innerClass:{type:String,default:void 0}},setup(e){return(t,d)=>(n(),s(c(e.tag),{class:"content-box"},{default:o(()=>[r("div",{class:l(["content-box__inner",[e.innerClass]])},[i(t.$slots,"default")],2)]),_:3}))}});export{m as _};
