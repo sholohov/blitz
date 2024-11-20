@@ -1,0 +1,1 @@
+import{d as o,u as a,a as r,b as s,n,o as c}from"./BzQ49_ll.js";import{c as u}from"./B4FMxlHh.js";const m={class:"recruitment-tour-team-page"},f=o({__name:"tournament",setup(p){const{$formatter:t}=a(),e=r();return s({title:()=>t.route.getTitle(u.toString(e.name)??"")}),(i,_)=>(c(),n("div",m," В разработке... "))}});export{f as default};

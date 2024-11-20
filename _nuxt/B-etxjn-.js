@@ -1,0 +1,1 @@
+import{d as t,o as e,n,I as s,x as a}from"./BzQ49_ll.js";const i=["textContent"],d=t({__name:"LeaderboardPosition",props:{position:{type:Number,default:0}},setup(o){return(r,l)=>(e(),n("div",{class:s(["leaderboard-position",["leaderboard-position--"+o.position]]),textContent:a(o.position)},null,10,i))}});export{d as _};

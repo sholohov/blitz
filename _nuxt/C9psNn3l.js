@@ -1,0 +1,1 @@
+import{d as o,u as s,a,b as n,n as r,o as c}from"./BzQ49_ll.js";import{c as u}from"./B4FMxlHh.js";const m={class:"recruitment-clans-page"},f=o({__name:"clans",setup(p){const{$formatter:e}=s(),t=a();return n({title:()=>e.route.getTitle(u.toString(t.name)??"")}),(i,_)=>(c(),r("div",m," В разработке... "))}});export{f as default};
